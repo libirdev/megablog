@@ -1,7 +1,7 @@
-Archivo para aprender a usar git.
+﻿Archivo para aprender a usar git.
 
 Esta es la historia de un perrito que está muy triste.
 
 El perrito triste fue lastimado y no puede concentrarse.
 
-Los perritos amigos están enojados.
+Los perritos amigos del perrito protagonista están muy muy enojados.
