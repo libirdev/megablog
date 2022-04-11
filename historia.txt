@@ -1,0 +1,3 @@
+Archivo para aprender a usar git.
+
+Historia de un perrito que está muy triste.
